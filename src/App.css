@@ -1,4 +1,15 @@
-.App {
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Robo ;
+  background-color: #111;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +46,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
